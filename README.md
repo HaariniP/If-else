@@ -18,3 +18,5 @@ system.out.println("The number is Zero");
 }
 }
 }
+Output 
+The number is positive 
